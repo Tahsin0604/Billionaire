@@ -1,0 +1,342 @@
+[
+  {
+    "naturalId": "14117",
+    "rank": 1,
+    "personName": "Elon Musk",
+    "email": "elonmusk@gmail.com",
+    "city": "Austin",
+    "source": "Tesla, SpaceX",
+    "countryOfCitizenship": "United States",
+    "squareImage": "/profile/1.jpg",
+    "abouts": [
+      "Musk, who says he's worried about population collapse, has nine children with three women, including triplets and two sets of twins.",
+      "As a kid in South Africa, Musk taught himself to code; he sold his first game, Blastar, for about $500."
+    ]
+  },
+  {
+    "naturalId": "4800",
+    "rank": 2,
+    "personName": "Bernard Arnault",
+    "email": "bernardarnault@gmail.com",
+    "city": "Paris",
+    "source": "LVMH",
+    "countryOfCitizenship": "France",
+    "squareImage": "/profile/2.jpg",
+    "abouts": [
+      "Arnault apparently wooed his wife, Helene Mercier, a concert pianist, by playing Chopin and other classical composers on the piano.",
+      "Arnault and LVMH own a 40% stake in private equity firm L Catterton, which has $30 billion in assets, including investments in Birkenstock and Equinox."
+    ]
+  },
+  {
+    "naturalId": "6713",
+    "rank": 3,
+    "personName": "Jeff Bezos",
+    "email": "jeffbezos@gmail.com",
+    "city": "Medina",
+    "source": "Amazon",
+    "countryOfCitizenship": "United States",
+    "squareImage": "/profile/3.jpg",
+    "abouts": [
+      "Growing up, Bezos worked summers on his grandfather's ranch repairing Caterpillar tractors.",
+      "Bezos met Google founders Larry Page and Sergey Brin in 1998 and managed to become one of the company's first angel investors, putting in an estimated $250,000."
+    ]
+  },
+  {
+    "naturalId": "5574",
+    "rank": 4,
+    "personName": "Larry Ellison",
+    "email": "larryellison@gmail.com",
+    "city": "Woodside",
+    "source": "Oracle",
+    "countryOfCitizenship": "United States",
+    "squareImage": "/profile/4.jpg",
+    "abouts": [
+      "Ellison never finished college. He started out building databases for the CIA.",
+      "Daughter Megan has financed films such as Zero Dark Thirty and American Hustle; son David produced mainstream movies like The Terminator and Mission: Impossible."
+    ]
+  },
+  {
+    "naturalId": "5381",
+    "rank": 5,
+    "personName": "Warren Buffett",
+    "email": "warrenbuffett@gmail.com",
+    "city": "Omaha",
+    "source": "Berkshire Hathaway",
+    "countryOfCitizenship": "United States",
+    "squareImage": "/profile/5.jpg",
+    "abouts": [
+      "Buffett still lives in the same Omaha, Nebraska, home he purchased in 1958 for $31,500.",
+      "Buffett was rejected from Harvard Business School; he got a master's in economics from Columbia University instead."
+    ]
+  },
+  {
+    "naturalId": "7441",
+    "rank": 6,
+    "personName": "Larry Page",
+    "email": "larrypage@gmail.com",
+    "city": "Palo Alto",
+    "source": "Google",
+    "countryOfCitizenship": "United States",
+    "squareImage": "/profile/6.jpg",
+    "abouts": [
+      "Page has avoided public appearances since Sundar Pichai became Google's CEO, including Alphabet's 2019 shareholders meeting -- much to investors' chagrin.",
+      "Page is a clean energy advocate; his Palo Alto home uses fuel cells and geothermal energy."
+    ]
+  },
+  {
+    "naturalId": "5772",
+    "rank": 7,
+    "personName": "Bill Gates",
+    "email": "billgates@gmail.com",
+    "city": "Medina",
+    "source": "Microsoft",
+    "countryOfCitizenship": "United States",
+    "squareImage": "/profile/7.jpg",
+    "abouts": [
+      "When Gates was a kid, he spent so much time reading that his parents finally forbade him from bringing books to the dinner table.",
+      "Gates took a break from classes his senior year in high school to do programming with his friend Paul Allen at a power plant in North Bonneville, Washington."
+    ]
+  },
+  {
+    "naturalId": "7442",
+    "rank": 8,
+    "personName": "Sergey Brin",
+    "email": "sergeybrin@gmail.com",
+    "city": "Los Altos",
+    "source": "Google",
+    "countryOfCitizenship": "United States",
+    "squareImage": "/profile/8.jpg",
+    "abouts": [
+      "The richest immigrant in America, Brin has been an outspoken critic of Trump's immigration ban.",
+      "Brin moved to the U.S. from Russia when he was 6 years old in the wake of anti-Semitism against his family."
+    ]
+  },
+  {
+    "naturalId": "8047",
+    "rank": 9,
+    "personName": "Mark Zuckerberg",
+    "email": "markzuckerberg@gmail.com",
+    "city": "Palo Alto",
+    "source": "Facebook",
+    "countryOfCitizenship": "United States",
+    "squareImage": "/profile/9.jpg",
+    "abouts": [
+      "Zuckerberg and his wife, Priscilla Chan, are spending $3 billion in an attempt to end, cure or manage all disease by the year 2100.",
+      "In January 2019, Mark Zuckerberg purchased $59 million worth of waterfront property on Lake Tahoe in California."
+    ]
+  },
+  {
+    "naturalId": "5671",
+    "rank": 10,
+    "personName": "Steve Ballmer",
+    "email": "steveballmer@gmail.com",
+    "city": "Hunts Point",
+    "source": "Microsoft",
+    "countryOfCitizenship": "United States",
+    "squareImage": "/profile/10.jpg",
+    "abouts": [
+      "Ballmer and Microsoft cofounder Bill Gates were classmates at Harvard.",
+      "Ballmer created a website called USAFacts.org for people to look up and understand where the government is spending money."
+    ]
+  },
+  {
+    "naturalId": "5640",
+    "rank": 11,
+    "personName": "Michael Bloomberg",
+    "email": "michaelbloomberg@gmail.com",
+    "city": "New York",
+    "source": "Bloomberg LP",
+    "countryOfCitizenship": "United States",
+    "squareImage": "/profile/11.jpg",
+    "abouts": [
+      "In 2018, Bloomberg pledged $1.8 billion to Johns Hopkins University, his undergraduate alma mater, adding to $1.5 billion he had already given the school.",
+      "As a teenager, Bloomberg worked at an electronics company in Cambridge, Massachusetts."
+    ]
+  },
+  {
+    "naturalId": "4466",
+    "rank": 12,
+    "personName": "Carlos Slim Helu",
+    "email": "carlosslim@gmail.com",
+    "city": "Mexico City",
+    "source": "Telecom",
+    "countryOfCitizenship": "Mexico",
+    "squareImage": "/profile/12.jpg",
+    "abouts": [
+      "Every Sunday, Slim's father would give him a 5-peso allowance and required him to record his purchases in a ledger.",
+      "Before going into business, Slim taught algebra at UNAM, a university in Mexico City."
+    ]
+  },
+  {
+    "naturalId": "7409",
+    "rank": 13,
+    "personName": "Mukesh Ambani",
+    "email": "mukeshambani@gmail.com",
+    "city": "Mumbai",
+    "source": "Reliance",
+    "countryOfCitizenship": "India",
+    "squareImage": "/profile/13.jpg",
+    "abouts": [
+      "During the Covid-19 lockdown, Ambani raised more than $20 billion selling a third of Jio to a string of investors, such as Facebook and Google.",
+      "Reliance owns Network18, a licensee of Forbes Media.",
+      "Ambani's U.S.-educated daughter Isha's marriage to fellow billionaire Ajay Piramal's son in December 2018 drew 10,000 guests, including Hillary Clinton.",
+      "Reliance Industries bought the Mandarin Oriental hotel in New York for $98 million."
+    ]
+  },
+  {
+    "naturalId": "7034",
+    "rank": 14,
+    "personName": "Amancio Ortega",
+    "email": "amancioortega@gmail.com",
+    "city": "La Coruna",
+    "source": "Zara",
+    "countryOfCitizenship": "Spain",
+    "squareImage": "/profile/14.jpg",
+    "abouts": [
+      "Ortega first began his career manufacturing textiles through a small family company in 1963.",
+      "He owns a 10% stake in Spanish telecoms firm Telxius and 5% of publicly traded natural gas grid operator Enag's."
+    ]
+  },
+  {
+    "naturalId": "203905",
+    "rank": 15,
+    "personName": "Francoise Bettencourt Meyers",
+    "email": "francoisebettencourt@gmail.com",
+    "city": "Paris",
+    "source": "L'Oréal",
+    "countryOfCitizenship": "France",
+    "squareImage": "/profile/15.jpg",
+    "abouts": [
+      "Bettencourt Meyers' inheritance was the subject of a sensational trial in France, in which a man was convicted of manipulating her ailing mother for her fortune.",
+      "Bettencourt Meyers is also a writer and has authored a book on the Greek gods and another with commentary on the Bible."
+    ]
+  },
+  {
+    "naturalId": "5251",
+    "rank": 16,
+    "personName": "Michael Dell",
+    "email": "michaeldell@gmail.com",
+    "city": "Austin",
+    "source": "Dell Technologies",
+    "countryOfCitizenship": "United States",
+    "squareImage": "/profile/16.jpg",
+    "abouts": [
+      "Dell got his start at 19 selling computers out of his University of Texas dorm room, grossing $80,000 by the end of his freshman year.",
+      "Dell's DFO Management owns the Four Seasons Maui, plus indirect stakes in Applebees, IHOP, Calvin Klein and reportedly Grand Central Station."
+    ]
+  },
+  {
+    "naturalId": "5720",
+    "rank": 17,
+    "personName": "Jim Walton",
+    "email": "jimwalton@gmail.com",
+    "city": "Bentonville",
+    "source": "Walmart",
+    "countryOfCitizenship": "United States",
+    "squareImage": "/profile/17.jpg",
+    "abouts": [
+      "Jim Walton has donated $2.6 billion in Walmart stock to unknown charities. ",
+      "Jim majored in business administration at the University of Arkansas."
+    ]
+  },
+  {
+    "naturalId": "5716",
+    "rank": 18,
+    "personName": "Rob Walton",
+    "email": "robwalton@gmail.com",
+    "city": "Bentonville",
+    "source": "Walmart",
+    "countryOfCitizenship": "United States",
+    "squareImage": "/profile/18.jpg",
+    "abouts": [
+      "Rob Walton, who has a law degree from Columbia University, helped Walmart prepare for its IPO in 1970.",
+      "His daughter Carrie Walton Penner sits on the board of the Walton Family Foundation, which his parents set up on Walmart's 25th anniversary in 1987."
+    ]
+  },
+  {
+    "naturalId": "5722",
+    "rank": 19,
+    "personName": "Alice Walton",
+    "email": "alicewalton@gmail.com",
+    "city": "Fort Worth",
+    "source": "Walmart",
+    "countryOfCitizenship": "United States",
+    "squareImage": "/profile/19.jpg",
+    "abouts": [
+      "After graduating from Trinity College in 1971, Walton briefly worked for Walmart as a buyer of children's clothes.",
+      "Her art collecting career began when she was 11 and bought a 25-cent print of Picasso's \"Blue Nude.\""
+    ]
+  },
+  {
+    "naturalId": "219528",
+    "rank": 20,
+    "personName": "Zhong Shanshan",
+    "email": "zhongshanshan@gmail.com",
+    "city": "Hangzhou",
+    "source": "Beverages, pharmaceuticals",
+    "countryOfCitizenship": "China",
+    "squareImage": "/profile/20.jpg",
+    "abouts": [
+      "Zhong Shanshan is founder and chairman of Nongfu Spring, a bottled water company that listed its shares in Hong Kong in September 2020.",
+      "Zhong also controls Beijing Wantai Biological Pharmacy, which  makes rapid diagnostic tests for infectious diseases including Covid-19."
+    ]
+  },
+  {
+    "naturalId": "225795",
+    "rank": 21,
+    "personName": "Julia Koch",
+    "email": "juliakoch@gmail.com",
+    "city": "New York",
+    "source": "Koch Industries ",
+    "countryOfCitizenship": "United States",
+    "squareImage": "/profile/21.jpg",
+    "abouts": [
+      "She worked with many of his high-profile clients, including First Lady Nancy Reagan.",
+      "Julia met David via a blind date in 1991; they ran into each other again six months later, began dating and got married in 1996."
+    ]
+  },
+  {
+    "naturalId": "199925",
+    "rank": 22,
+    "personName": "Gautam Adani",
+    "email": "gautamadani@gmail.com",
+    "city": "Ahmedabad",
+    "source": "Infrastructure, commodities",
+    "countryOfCitizenship": "India",
+    "squareImage": "/profile/22.jpg",
+    "abouts": [
+      "Adani owns Abbot Point, a controversial coal mining project in Australia, whose Carmichael coal mine is billed as one of the world's largest.",
+      "Adani says he wants to be the world's largest producer of green energy and will invest up to $70 billion on renewable energy projects.",
+      "A high school dropout, Adani spurned his father's textile shop to start his own commodities trading firm. "
+    ]
+  },
+  {
+    "naturalId": "8292",
+    "rank": 23,
+    "personName": "David Thomson",
+    "email": "davidthomson@gmail.com",
+    "city": "Toronto",
+    "source": "Media",
+    "countryOfCitizenship": "Canada",
+    "squareImage": "/profile/23.jpg",
+    "abouts": [
+      "Thomson has a diverse art portfolio reported to include pieces from Pablo Picasso and the world's top collection of English romantic painter John Constable.",
+      "He is a part owner of the NHL's Winnipeg Jets, and his family's holding company has a minority stake in the Montreal Canadiens."
+    ]
+  },
+  {
+    "naturalId": "5209",
+    "rank": 24,
+    "personName": "Charles Koch",
+    "email": "charleskoch@gmail.com",
+    "city": "Wichita",
+    "source": "Koch Industries",
+    "countryOfCitizenship": "United States",
+    "birthDate": -1078272000000,
+    "squareImage": "/profile/24.jpg",
+    "abouts": [
+      "Three Koch brothers (Charles, David and Bill) went to MIT; the trio were in the Beta Theta Pi fraternity and David and Charles played on the same club rugby team.",
+      "Koch founded Stand Together, a network of nonprofits and donors focused on philanthropic and political advocacy causes, in 2003."
+    ]
+  }
+]

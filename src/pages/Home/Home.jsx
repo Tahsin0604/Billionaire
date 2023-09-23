@@ -8,6 +8,7 @@ import loader from "/loader.svg";
 
 const Home = () => {
   const dispatch = useDispatch();
+
   const { usersList, usersLoading } = useSelector((state) => state.userSlice);
   const {
     filterState: { orderedBy, searchQuery },
@@ -29,6 +30,7 @@ const Home = () => {
   useEffect(() => {
     dispatch(fetchUsersList());
   }, []);
+
   return (
     <div className="w-full">
       <Helmet>

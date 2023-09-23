@@ -23,7 +23,9 @@ export const fetchSingleUser = createAsyncThunk(
     const res = await fetch(
       `https://server-tahsin0604.vercel.app/profiles/${id}`
     );
+    console.log(res);
     const details = await res.json();
+    console.log(details);
     return details;
   }
 );
@@ -56,6 +58,7 @@ const userSlice = createSlice({
         state.error = action.error.message;
       })
       .addCase(fetchSingleUser.pending, (state) => {
+        console.log("pending");
         state.singleUser = {};
         state.detailsLoading = true;
         state.isError = false;
@@ -71,9 +74,10 @@ const userSlice = createSlice({
       })
 
       .addCase(fetchSingleUser.rejected, (state, action) => {
+        console.log("rejected");
         state.singleUser = {};
-        state.detailsLoading = true;
-        state.isError = false;
+        state.detailsLoading = false;
+        state.isError = true;
         state.error = action.error.message;
       });
   },

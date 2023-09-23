@@ -34,9 +34,11 @@ const Home = () => {
       <Helmet>
         <title>Billionaire Profile | Home</title>
       </Helmet>
-      <div className="py-10 px-4 md:px-8 lg:px-36 flex justify-center w-full">
-        {usersLoading && <img src={loader} alt="" />}
-      </div>
+      {usersLoading && (
+        <div className="py-10 px-4 md:px-8 lg:px-36 flex justify-center w-full">
+          <img src={loader} alt="" />
+        </div>
+      )}
       <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-6 py-10 px-4 md:px-10 ">
         {FilterdUserList().map((user) => (
           <UserCard key={user.naturalId} user={user} />

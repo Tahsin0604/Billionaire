@@ -11,7 +11,7 @@ const initialState = {
 export const fetchUsersList = createAsyncThunk(
   "userSlice/userList",
   async () => {
-    const res = await fetch("profile.json");
+    const res = await fetch("https://server-tahsin0604.vercel.app/profiles");
     const data = await res.json();
     console.log(data);
     return data;
@@ -20,9 +20,10 @@ export const fetchUsersList = createAsyncThunk(
 export const fetchSingleUser = createAsyncThunk(
   "userSlice/singleUser",
   async (id) => {
-    const res = await fetch("/profile.json");
-    const list = await res.json();
-    const details = list.find((user) => user.naturalId === id);
+    const res = await fetch(
+      `https://server-tahsin0604.vercel.app/profiles/${id}`
+    );
+    const details = await res.json();
     return details;
   }
 );

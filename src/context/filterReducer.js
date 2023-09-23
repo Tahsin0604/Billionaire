@@ -4,6 +4,8 @@ export const filterReducer = (state, action) => {
       return { ...state, orderedBy: action.payload };
     case "FILTER_BY_SEARCH":
       return { ...state, searchQuery: action.payload };
+    case "RESET":
+      return { ...state, orderedBy: "lowToHigh", searchQuery: "" };
     default:
       return state;
   }

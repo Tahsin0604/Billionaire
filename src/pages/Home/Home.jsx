@@ -12,6 +12,7 @@ const Home = () => {
   const { usersList, usersLoading } = useSelector((state) => state.userSlice);
   const {
     filterState: { orderedBy, searchQuery },
+    filterDispatch,
   } = useContext(FilterContext);
   const FilterdUserList = () => {
     let filterdUsers = [...usersList];
@@ -29,6 +30,9 @@ const Home = () => {
   };
   useEffect(() => {
     dispatch(fetchUsersList());
+    filterDispatch({
+      type: "RESET",
+    });
   }, []);
 
   return (
